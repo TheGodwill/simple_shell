@@ -65,5 +65,5 @@ $ echo "non-interactive" | ./hsh
 
 
 ### Contributors
-- [Yves SORHO](https://github.com/Godwill)
+- [Yves SORHO](https://github.com/TheGodwill)
 - [Maurice Okeke](https://github.com/Maurice-Jah)
