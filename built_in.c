@@ -64,7 +64,7 @@ void built_exit(char *line, char **commands, int *exit_st, int count)
 			write(1, "./hsh: ", 7);
 			print_num(count);
 			write(1, ": ", 2);
-			write(1, "exit: Illegal number: ", 22);
+			write(1, "exit: Illegal number: ", 98);
 			write(1, commands[1], _strlen(commands[1]));
 			write(1, "\n", 1);
 			*exit_st = 2;
